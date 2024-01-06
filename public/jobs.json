@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "logo": "https://i.ibb.co/vjBSVYp/koryonos-by-brotherbjorn-dgcxpoz.png",
+    "job_title": "Scholar of Forbidden Lore",
+    "company_name": "Rivendell Tech",
+    "remote_or_onsite": "Remote",
+    "location": "Lothlórien, Middle-earth",
+    "job_type": "Full Time",
+    "salary": "100k-150k Mithril Coins",
+    "job_description": "An Elven Developer is responsible for crafting magical and efficient software solutions in harmony with the enchanting landscapes of Middle-earth. This includes creating interfaces that resonate with the spirit of Elven craftsmanship.",
+    "job_responsibility": "Collaborating with diverse beings: Elven Developers often work closely with other races, including Dwarves, Men, and Hobbits, to ensure that the software interface aligns with the beauty and functionality of Middle-earth. Effective communication of magical design ideas is crucial.",
+    "educational_requirements": "Mastering the art of enchantment at the Elven Institute of Wisdom.",
+    "experiences": "Centuries of experience in the realms of development and enchantment.",
+    "contact_information": {
+      "phone": "01750-ELF-TECH",
+      "email": "info@rivendelltech.com",
+      "address": "Treehouse 7, Lothlórien, Middle-earth"
+    }
+  },
+    {
+    "id": 2,
+    "logo": "https://i.ibb.co/VtPvPmT/svyatogor-and-ilya-muromets-commission-by-brotherbjorn-dgd0je8.png",
+    "job_title": "Wyrmwhisperer",
+    "company_name": "Dragonriders' Aerie",
+    "remote_or_onsite": "Onsite",
+    "location": "Dragonspine Peaks",
+    "job_type": "Full Time",
+    "salary": "Passage on dragonback, hoard-share",
+    "job_description": "Forge a bond with a magnificent wyrm and soar through the skies, defending the Aerie from encroaching threats. Master the art of draconic communication and unite the dragonkind against the forces of shadow.",
+    "job_responsibility": "Training and caring for assigned dragon, interpreting draconic pronouncements, navigating treacherous aerial landscapes, and engaging in aerial combat against wyrm-kind enemies.",
+    "educational_requirements": "Proven experience in animal handling, unwavering courage, and a natural affinity for the skies.",
+    "experiences": "Prior experience with wyrm-kind interactions and a demonstrated ability to calm even the most ferocious beasts.",
+    "contact_information": {
+      "phone": "Dragon calls only",
+      "email": "whisperer@dragonriders.aerie.peak",
+      "address": "The Dragonriders' Aerie, Dragonspine Peaks, Wyrmwind Vale"
+    }
+  },
+  {
+    "id": 3,
+    "logo": "https://i.ibb.co/FghjBT7/20231028-164606.jpg",
+    "job_title": "Oathbound Blade",
+    "company_name": "Knights of the Emerald Order",
+    "remote_or_onsite": "Onsite",
+    "location": "Emerald Glade",
+    "job_type": "Full Time",
+    "salary": "Room and board, enchanted weaponry",
+    "job_description": "Swear your blade to the Emerald Order and stand as a sentinel against the encroaching darkness. Hone your combat skills and defend the sacred Glade from monstrous incursions and malevolent forces.",
+    "job_responsibility": "Patrolling the Glade's borders, engaging in tactical combat, mastering ancient swordsmanship techniques, and upholding the Order's sacred oaths.",
+    "educational_requirements": "Proven martial prowess, unwavering loyalty, and a commitment to the Order's noble cause.",
+    "experiences": "Prior combat experience against formidable foes and a demonstrated ability to lead in the heat of battle.",
+    "contact_information": {
+      "phone": "By horn only",
+      "email": "oathbound@emeraldknights.gladefall",
+      "address": "The Emerald Glade, Knights' Citadel, Whispering Woods"
+    }
+  },
+  {
+    "id": 4,
+    "logo": "https://i.ibb.co/7X3Py1m/IMG-20240105-225639.png",
+    "job_title": "Elven Beekeeper",
+    "company_name": "Khazad-dûm Industries",
+    "remote_or_onsite": "Onsite",
+    "location": "Khazad-dûm, Middle-earth",
+    "job_type": "Full Time",
+    "salary": "100k-150k Gold Coins",
+    "job_description": "A Dwarven Mining Engineer is responsible for delving deep into the earth, extracting valuable resources, and crafting robust software solutions that withstand the test of time. This includes designing interfaces with Dwarven precision.",
+    "job_responsibility": "Collaborating with the stone: Dwarven Mining Engineers work closely with the earth itself, ensuring that the software interface aligns with the sturdiness and craftsmanship of Khazad-dûm. Effective communication of Dwarven design ideas is essential.",
+    "educational_requirements": "Graduation from the Khazad-dûm School of Engineering and Mining.",
+    "experiences": "Centuries of mining and engineering in the heart of Middle-earth.",
+    "contact_information": {
+      "phone": "01750-DWARF-ENG",
+      "email": "info@khazaddumindustries.com",
+      "address": "Forge 12, Khazad-dûm, Middle-earth"
+    }
+  },
+  {
+    "id": 5,
+    "logo": "https://i.ibb.co/nwzRR8M/two-strays-by-brotherbjorn-dgdbj6l.png",
+    "job_title": "Beastmaster",
+    "company_name": "The Band of the Falcon",
+    "remote_or_onsite": "Onsite",
+    "location": "Falconia, Midland",
+    "job_type": "Full Time",
+    "salary": "A share of the spoils of war and a place at the Captain's table",
+    "job_description": "Join the ranks of the Band of the Hawk and command a fearsome legion of monstrous allies. Your beasts will strike terror into the hearts of your foes and pave the way to victory.",
+    "job_responsibility": "Taming and training a diverse array of creatures, leading them into battle, and ensuring their loyalty to the Band of the Hawk.",
+    "educational_requirements": "Unparalleled physical strength, a fearless spirit, and the ability to forge bonds with even the most savage beasts.",
+    "experiences": "Prior experience in combat and a demonstrated ability to control wild animals.",
+    "contact_information": {
+      "phone": "By messenger hawk only",
+      "email": "beasts@bandofthehawk.com",
+      "address": "The Great Hall of Falconia, beneath the watchful gaze of the Hawk of Light"
+    }
+  },
+  {
+    "id": 6,
+    "logo": "https://i.ibb.co/YQRs7jJ/carrion-on-the-steppe-by-brotherbjorn-dgcy402.png",
+    "job_title": "Master Swordsmith",
+    "company_name": "The Elven Smiths of Rivendell",
+    "remote_or_onsite": "Onsite",
+    "location": "Rivendell, Valley of Celebrant",
+    "job_type": "Full Time",
+    "salary": "A share of the Elven treasuries and the secrets of Celebrimbor",
+    "job_description": "Join the most revered smiths in Middle-earth and craft enchanted rings of power. Your creations will shape the fate of kingdoms and heroes.",
+    "job_responsibility": "Mastering the ancient arts of smithing, imbuing rings with magical properties, and collaborating with Elven loremasters to design artifacts of unparalleled power.",
+    "educational_requirements": "Unwavering patience, a deep understanding of the properties of metals and gems, and a reverence for the Elven craft.",
+    "experiences": "Proven expertise in metallurgy and enchanting, with a demonstrated ability to create objects of lasting beauty and power.",
+    "contact_information": {
+      "phone": "By Elven messenger only",
+      "email": "rings@rivendellforge.com",
+      "address": "The Elven Smithies of Rivendell, beneath the Last Homely House"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "logo": "/icons/accounts.png",
+        "category_name": "Dragon Hoarders & Goldspinners",
+        "availability": "300 Quests to Fill Your Coffers"
+    },
+    {
+        "id": 2,
+        "logo": "/icons/creative.png",
+        "category_name": "Arcane Enchanters & Spellweavers",
+        "availability": "100+ Enchantments to Craft"
+    },
+    {
+        "id": 3,
+        "logo": "/icons/marketing.png",
+        "category_name": "Bard's Guild & Talespinners",
+        "availability": "150 Legends to Spread"
+    },
+    {
+        "id": 4,
+        "logo": "/icons/chip.png",
+        "category_name": "Runecrafters & Gnomish Tinkerers",
+        "availability": "224 Gadgets to Devise"
+    }
+]
