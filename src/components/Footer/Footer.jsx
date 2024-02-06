@@ -25,6 +25,7 @@ const Footer = () => {
                         <a className="link link-hover">Cookie policy</a>
                     </nav>
                 </div>
+                <p className="text-center">I take no credit to the pictures used in the website.</p>
 
             </footer>
         </div>
